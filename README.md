@@ -1,16 +1,23 @@
-## Hi there 👋
+### ⚡
 
-<!--
-**dgingu-0x/dgingu-0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dan, a CS student based in Romania.
+I mostly work on low-level systems — C++, C# (.NET), computer architecture, and memory management.
+I also use Git, Visual Studio, and spend a lot of time reading raw compiler outputs and assembly.
+This is a clean profile where I'm building everything from the metal up. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack & Tools
+
+* C++, C# (.NET 8)
+* Computer Architecture, Memory & Pointers
+* Git, Visual Studio, Windows CLI
+
+---
+
+### A Bit About Me
+
+* ⚙️ Rebuilding my dev foundations from scratch
+* 🎯 Focused heavily on core algorithms and systems design
+* 🎮 Big fan of *L.A. Noire* and classic PC games
+* 🔨 I like building clean, fast CLI tools that do one job exceptionally well
